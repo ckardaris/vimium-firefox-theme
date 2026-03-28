@@ -26,8 +26,8 @@
   }
 }
 
-.vimium-flash {
-  box-shadow: 0px 0px 2px 2px var(--color-red) !important;
+div.vimium-flash {
+  box-shadow: 0px 0px 2px 2px var(--color-red);
 }
 
 #hud-container {
