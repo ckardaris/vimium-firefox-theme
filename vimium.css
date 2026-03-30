@@ -1,4 +1,4 @@
-/* Theme colors */
+f/* Theme colors */
 :root {
   --color-red: #AE49EC;
   --color-blue: #3584E4;
@@ -8,7 +8,7 @@
   --border-line: 1px solid var(--color-grey); 
 }
 
-.vimiumHintMarker {
+div.vimiumHintMarker {
   /* linkhint boxes */
   background: var(--color-yellow);
   border: 1px solid var(--color-red);
